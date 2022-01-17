@@ -28,5 +28,10 @@ const PRAYERPATTERN = [
         id: 5, 
         step: "End by saying 'in the name of Jesus Christ. Amen.'",
         length: 2000 ms
+    }, 
+    {
+        id: 6, 
+        step: "Reflect on the thoughts and feelings of the prayer.", 
+        length: 60000 ms
     }
 ]
