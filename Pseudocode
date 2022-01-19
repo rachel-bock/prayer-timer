@@ -1,0 +1,16 @@
+// Open the app.  Display a splash screen.
+
+// Allow user to login using Facebook or Google login information or continue as a guest in demo mode.
+
+// Demo mode - 
+// Give a timer for preparing to pray. 
+// Display a clock with sections for each part of the prayer process.
+// Have a button that starts the clock.
+// Have a button that pauses the clock.
+// Have a paragraph that provides a description about what the prayer section is referring to.
+//   In the paragraph, give examples of what to say during this section of the prayer.
+// When the prayer timer gets to the end of a section, the timer will ding and ask the client if they want to continue to the next section of the prayer.  If so, they continue.
+// If not, they will be (in effect) pausing the timer until they are ready to continue.
+// When the prayer is done, remind client to write down thoughts and impressions of the prayer.
+// Allow the capability to reset the timer to the first section as necessary.  (Sometimes, it is necessary to start a prayer over in the middle of a prayer.)
+
